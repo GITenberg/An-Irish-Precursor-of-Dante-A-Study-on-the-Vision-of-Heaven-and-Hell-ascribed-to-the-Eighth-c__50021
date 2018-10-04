@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'An Irish Precursor of Dante
 
   A Study on the Vision of Heaven and Hell ascribed to the
